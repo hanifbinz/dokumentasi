@@ -1,0 +1,10 @@
+/* Linear Gradient – Atas ke bawah */
+#gradien1 {
+	background-image: linear-gradient(hsl(197, 100%, 50%), hsl(204, 100%, 48%));
+}
+
+#body {
+	background-image: url('../../assets/foto/bg/wp.jpg'); /* Sesuaikan path dengan lokasi gambar Anda */
+	background-repeat: no-repeat;
+	background-size: cover; /* Mengatur agar gambar latar belakang menutupi seluruh area */
+}
